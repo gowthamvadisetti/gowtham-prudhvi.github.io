@@ -32,4 +32,34 @@ date_format = "Jan 2006"
   * TODO
   """
 
+  [[experience]]
+  title = "Interim Engineering Intern"
+  company = "Qualcomm"
+  company_url = ""
+  location = "Chennai"
+  date_start = "2017-05-01"
+  date_end = "2017-07-01"
+  description = """
+  Responsibilities include:
+  
+  * TODO
+  * TODO
+  * TODO
+  """
+
+  [[experience]]
+  title = "Intern"
+  company = "Monet Networks"
+  company_url = ""
+  location = "Gurgaon"
+  date_start = "2016-05-01"
+  date_end = "2016-07-01"
+  description = """
+  Responsibilities include:
+  
+  * TODO
+  * TODO
+  * TODO
+  """
+
 +++
