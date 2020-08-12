@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2018-06-07"
   date_end = "2020-07-24"
   description = """
-  Responsibilities include:
-  
-  * TODO
-  * TODO
-  * TODO
   """
 
   [[experience]]
@@ -39,13 +34,7 @@ date_format = "Jan 2006"
   location = "Chennai"
   date_start = "2017-05-01"
   date_end = "2017-07-01"
-  description = """
-  Responsibilities include:
-  
-  * TODO
-  * TODO
-  * TODO
-  """
+  description = """"""
 
   [[experience]]
   title = "Intern"
@@ -54,12 +43,6 @@ date_format = "Jan 2006"
   location = "Gurgaon"
   date_start = "2016-05-01"
   date_end = "2016-07-01"
-  description = """
-  Responsibilities include:
-  
-  * TODO
-  * TODO
-  * TODO
-  """
+  description = """"""
 
 +++
