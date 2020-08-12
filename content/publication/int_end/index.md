@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Streaming on-device end-to-end ASR system for privacy-sensitive voicetyping"
-authors: []
-date: 2020-08-11T14:19:03+05:30
+authors: [Abhinav Garg,Gowtham Vadisetti,Sichen Jin,Dhananjaya Gowda,Aditya Jayasimha,Youngho Han,Jiyeon Kim,Junmo Park,Kwangyoun Kim,Sooyeon Kim,YoungyoonLee,Kyungbo Min,Chanwoo Kim]
+date: 2020-10-29T14:19:03+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-08-11T14:19:03+05:30
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "INTERSPEECH 2020"
 publication_short: ""
 
 abstract: ""

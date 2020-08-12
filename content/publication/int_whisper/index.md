@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Whisper Augmented End-to-End/Hybrid Speech Recognition System - CycleGAN Approach"
-authors: []
-date: 2020-08-11T14:19:08+05:30
+authors: [Prithvi Raj Reddy Gudepu, Gowtham Prudhvi Vadisetti, Abhishek Niranjan, Kinnera Saranu, Raghava Sarma, Mahaboob Ali Basha Shaik , Periyasamy Paramasivam]
+date: 2020-10-29T14:19:04+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-08-11T14:19:08+05:30
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "INTERSPEECH 2020"
 publication_short: ""
 
 abstract: ""
