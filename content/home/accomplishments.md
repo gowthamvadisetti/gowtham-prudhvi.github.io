@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "kaggle"
+  organization_url = "https://www.kaggle.com/"
+  title = "Pandas"
+  url = ""
+  certificate_url = "https://www.kaggle.com/learn/certification/gowthamprudhvi/pandas"
+  date_start = "2020-09-07"
+  date_end = ""
+  description = ""
+
 
 
 +++
