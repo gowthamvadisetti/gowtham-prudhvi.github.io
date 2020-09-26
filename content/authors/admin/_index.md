@@ -73,4 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Hello There.
+I am an engineer passionate about Deep learning/AI.The problems that have been solved due to the latest advances in Deep Learning still blow my mind.I am even more excited for what’s to come.While it’s hard to keep up with the fast changes in the field, I am up for that challenge.
+
+
+I completed my bachelor’s in Computer Science at Indian Institute of Technology, Kanpur. In my free time I try to keep up with latest developments in Space,Tech and Movies. 
